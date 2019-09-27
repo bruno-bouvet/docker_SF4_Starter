@@ -42,3 +42,7 @@ rm -Rf /home/wwwroot/sf4/my-temp-folder
 
 
 _**`clean images  : docker rmi $(docker images -q) --force`**_
+docker rm -fv $(docker ps -aq)
+ docker-compose down --rmi all
+
+
