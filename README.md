@@ -1,10 +1,7 @@
 # kit-starter-symfony-4-docker
-
-The perfect kit starter for a Symfony 4 project with Docker and PHP 7.2
-
-`Fourth bis : How Docker work ?
-`
+test
 docker exec -it -u sf4_mysql bash
+
 You are right now in the mysql container as root user. You can explorer this container as you want ;)
 
 
